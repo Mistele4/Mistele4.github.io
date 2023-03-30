@@ -56,7 +56,9 @@ MPU - Modular Packaged Unit
 ## Controls
 
 Monitor from any location
+
 Manage up to 8 lighting zones
+
 Schedule Hvac, supervise Core Fire Protection Systems
 (coding)?
 
@@ -65,6 +67,7 @@ Schedule Hvac, supervise Core Fire Protection Systems
 
 ## Blake Wrenn
 Worked with CaptiveAire as an industrial engineer
+
 in charge of layout(sheet metal fabrication) department
 
 He had to learn autoCAD - software
@@ -105,6 +108,7 @@ Metal bender, lasaer cutter, etc...
 **expect to get dirty**
 
 **safety** - very important, priority grown over last several years
+
 probably need steel toed boots, will provide other safety materials
 + eg kevlar sleeves, apron, safety glasses, ear plugs
 
@@ -118,10 +122,13 @@ R&D would be more beneficial for mechanical
 They prior struggled with putting interns with someone on the floor to shadow
 - not necessarily engineering person
 Most lines now have dedicated engineers fo reach lines
+
 I may be hooked up with one of hte engineering techs now that there are more
 
 [Back to Top](#captiveaire)
 
 2 internships
-    1 hands on
-    2 going to locations
+
+1 hands on
+
+2 going to locations
