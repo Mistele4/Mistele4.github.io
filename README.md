@@ -10,7 +10,7 @@ Mistele4.github.io
 + [Ductwork](#ductwork)
 + Makeup Air
 + Heaters
-+ Controls
++ [Controls](#controls)
 + Kitchen Ventilation
 
 ## Fans
@@ -46,6 +46,19 @@ Uses round ductwork instead of square ductork
 + Round Ductwork- easier to clean, doesnt build grease, cheaper, less insulation, better acoustics
 
 *Single* vs *Double* wall ductwork:
+
+## Makeup Air
+MPU - Modular Packaged Unit
+- Sized to accomodate different spaces
+- factory packaged
+
+
+## Controls
+
+Monitor from any location
+Manage up to 8 lighting zones
+Schedule Hvac, supervise Core Fire Protection Systems
+(coding)?
 
 <br>
 <br>
@@ -108,3 +121,7 @@ Most lines now have dedicated engineers fo reach lines
 I may be hooked up with one of hte engineering techs now that there are more
 
 [Back to Top](#captiveaire)
+
+2 internships
+    1 hands on
+    2 going to locations
